@@ -10,6 +10,7 @@ namespace AlloyTeam.Rosin
     {
         public void AutoTamperRequestAfter(Session oSession)
         {
+            //lalalal
             throw new NotImplementedException();
         }
 
